@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097353746059",
+    "project_id": "just-chat-app-6b126",
+    "storage_bucket": "just-chat-app-6b126.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097353746059:android:414a01e09a5791f550268e",
+        "android_client_info": {
+          "package_name": "com.example.just_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvhQ7Rgt3g0PauNxCpqrvx_0Tit-INxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
