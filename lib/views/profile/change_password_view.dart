@@ -49,7 +49,7 @@ class ChangePasswordView extends StatelessWidget {
                 Text(
                   'Please enter your current password and choose a new secure password.',
                   style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                    color: AppTheme.textSecondaryColor,
+                    color: Theme.of(context).colorScheme.onSurface.withOpacity(0.7),
                   ),
                   textAlign: TextAlign.start,
                 ),
