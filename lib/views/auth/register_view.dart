@@ -57,7 +57,7 @@ class _RegisterViewState extends State<RegisterView> {
               Text(
                 "Sign up to get started!",
                 style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                  color: AppTheme.textSecondaryColor,
+                  color: Theme.of(context).colorScheme.onSurface.withOpacity(0.7),
                 ),
               ),
               SizedBox(height: 40),
